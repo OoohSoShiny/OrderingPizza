@@ -1,0 +1,10 @@
+C:\Users\Ghost\source\repos\PizzaOrder\bin\Debug\PizzaOrder.exe.config
+C:\Users\Ghost\source\repos\PizzaOrder\bin\Debug\PizzaOrder.exe
+C:\Users\Ghost\source\repos\PizzaOrder\bin\Debug\PizzaOrder.pdb
+C:\Users\Ghost\source\repos\PizzaOrder\obj\Debug\PizzaOrder.csprojAssemblyReference.cache
+C:\Users\Ghost\source\repos\PizzaOrder\obj\Debug\PizzaOrder.MainFrame.resources
+C:\Users\Ghost\source\repos\PizzaOrder\obj\Debug\PizzaOrder.Properties.Resources.resources
+C:\Users\Ghost\source\repos\PizzaOrder\obj\Debug\PizzaOrder.csproj.GenerateResource.cache
+C:\Users\Ghost\source\repos\PizzaOrder\obj\Debug\PizzaOrder.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\source\repos\PizzaOrder\obj\Debug\PizzaOrder.exe
+C:\Users\Ghost\source\repos\PizzaOrder\obj\Debug\PizzaOrder.pdb
